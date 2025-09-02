@@ -1,0 +1,14 @@
+{
+  "name": "milestone-project",
+  "version": "1.0.0",
+  "description": "My Web Dev Milestone Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hasrat Afridi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
