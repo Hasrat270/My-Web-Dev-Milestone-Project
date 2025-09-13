@@ -58,7 +58,7 @@ app.use(errorHandlerMiddleware);
 db.connectToDatabase()
   .then(function () {
     app.listen(3000, function () {
-      console.log("Server Listening on : http://localhost:3000/signup");
+      console.log("Server Listening on : http://localhost:3000");
     });
   })
   .catch(function (error) {
